@@ -4,6 +4,7 @@
 - 📫 How to reach me **olfagannouni7@gmail.com**
 
 ## 🔭 Work / Projects
+- [Text Similarity API]((https://github.com/olfa-ga/text-similarity-api)) – WText Similarity API is a RESTful API built with FastAPI that leverages Natural Language Processing (NLP) techniques using Sentence Transformers to compute semantic similarity between two texts .
 - [NovaEra_SIC_CapstoneProject](https://github.com/olfa-ga/NovaEra_SIC_CapstoneProject) – Web-based application for photovoltaic energy forecasts using ML (MLP, XGBoost, Random Forest). Helps optimize energy consumption and plan grid operations.  
 - [MultiInput-OCR-Classifier](https://github.com/olfa-ga/MultiInput-OCR-Classifier) – Multi-input OCR model for insurance document character recognition. Combines image features with a type vector for better prediction accuracy.  
 - [User_Classification_Project](https://github.com/olfa-ga/User_Classification_Project) – ML pipeline to classify students as potential or unlikely purchasers using Logistic Regression, KNN, and SVM. Supports targeted marketing strategies.
